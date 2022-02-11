@@ -1,4 +1,18 @@
 <div>
+        <h1>Saudações!</h1>
+        
+        <p>
+            Atualmente estudo Gestão da Tecnologia da Informação na Estácio.
+        
+            Através da faculdade aprendi os fundamentos de programação e a base de linguagens como java e python.
+        
+            Também estudei um pouco sobre desenvolvimento web, área onde me encontrei e pretendo trabalhar. Desde então, venho me
+            qualificando e fazendo outros cursos como o DevQuest.
+        </p>
+    </div>
+
+
+<div>
   <a href="https://github.com/rafael-silva-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-silva-dev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-silva-dev&layout=compact&langs_count=6&theme=onedark"/>
