@@ -1,12 +1,10 @@
-<div>
-        <h1>Saudações!</h1>
+## Saudações! 🚀
         
-        <p>Atualmente estudo Gestão da Tecnologia da Informação na Estácio.</p>
+### Sou estudante de Gestão da Tecnologia da Informação na Estácio.
+
+### Na faculdade aprendi fundamentos de programação e a base de linguagens como java e python. Também aprendi um pouco de desenvolvimento web, área onde me encontrei e pretendo trabalhar.
         
-        <p>Através da faculdade aprendi os fundamentos de programação e a base de linguagens como java e python. Também tive contato com um pouco de desenvolvimento web, área onde me encontrei e pretendo trabalhar.</p>
-        
-        <p>Desde então estou me aperfeiçoando em desenvolvimento front-end,  fazendo o curso DevQuest.</p>
-    </div>
+### Hoje estou me aperfeiçoando em desenvolvimento front-end,  fazendo o curso DevQuest.
 
 
 <div>
