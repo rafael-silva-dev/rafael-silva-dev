@@ -2,9 +2,18 @@
         
 ### Sou estudante de Gestão da Tecnologia da Informação na Estácio.
 
-### Na faculdade aprendi fundamentos de programação e a base de linguagens como java e python. Também aprendi um pouco de desenvolvimento web, área onde me encontrei e pretendo trabalhar.
+### Na faculdade aprendi fundamentos de programação e a base de linguagens como Java e Python. Também aprendi um pouco de desenvolvimento web, área onde me encontrei e pretendo trabalhar.
         
 ### Hoje estou me aperfeiçoando em desenvolvimento front-end,  fazendo o curso DevQuest.
+
+## Greetings! 🚀
+
+### I am a student of Gestão da Tecnologia da Informação at Estácio.
+
+### In college I learned programming fundamentals and the basis of languages like Java and Python. I also learned a little bit about web development, area where I found myself and where I intend to work.
+
+### Nowadays I am improving myself in front-end development, taking the DevQuest course.
+
 
 
 <div>
