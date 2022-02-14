@@ -1,6 +1,6 @@
 ## Greetings! :rocket:
 
-### A Developer in Training :dart:
+### I'm a Developer in Training :dart:
 
 ### I'm currently learning :book:
 - HTML
