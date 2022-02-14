@@ -2,7 +2,7 @@
 
 ### Developer in training.
 
-### I am currently learning:
+### I'm currently learning:
 - HTML
 - CSS
 - JavaScript
